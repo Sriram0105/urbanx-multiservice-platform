@@ -1,0 +1,20 @@
+[
+  {
+    "name": "suresh kumar",
+    "email": "suresh@urbanx.com",
+    "phone": "8787878787",
+    "service": "Civil Engineer",
+    "bio": "10 years of expirence\n",
+    "image": "work.jpg",
+    "id": 1750427641742
+  },
+  {
+    "name": "arvind",
+    "email": "arvind12345@gmail.com",
+    "phone": "8989894242",
+    "service": "Food Partner",
+    "bio": "10 years of expirence in cooking and worked in an cruise\n",
+    "image": "",
+    "id": 1750582805632
+  }
+]
